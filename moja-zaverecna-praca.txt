@@ -1,2 +1,3 @@
 text
 Cieľ práce: Autor sa zorientuje v súčasných trendoch v oblasti analýzy nákupného košíka. V práci zosumarizuje možnosti a ciele týchto analýz a na reálnych dátach aplikuje vybrané analytické metódy.
+Akademický rok obhajoby - 2020/2021
